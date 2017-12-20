@@ -1,7 +1,8 @@
 package oopLab4;
-public class OverLoadMethod {
+
+public class OverLoadMethhod {
     public static void  A(){
-       System.out.println("Hello A");
+        System.out.println("Hello A");
     }
     public static void A(int x){
         System.out.println("Hello A"+x);
@@ -21,3 +22,5 @@ public class OverLoadMethod {
 
     }//maim
 }//class
+
+
