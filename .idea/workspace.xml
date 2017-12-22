@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec5b1c4d-a4b8-4bbe-9d07-62cdd10a5c56" name="Default" comment="myArray">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab5/InputDataToArray.java" />
+    <list default="true" id="ec5b1c4d-a4b8-4bbe-9d07-62cdd10a5c56" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,8 +17,8 @@
       <file leaf-file-name="InputDataToArray.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab5/InputDataToArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="418">
+              <caret line="25" column="7" lean-forward="false" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -414,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1513909109102</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="InputDataToArray">
+      <created>1513911186040</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1513911186040</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -458,7 +464,8 @@
     <MESSAGE value="TestNestedLoop" />
     <MESSAGE value="OverLoadMethod" />
     <MESSAGE value="myArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="myArray" />
+    <MESSAGE value="InputDataToArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="InputDataToArray" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -565,8 +572,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab5/InputDataToArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="418">
+          <caret line="25" column="7" lean-forward="false" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
           <folding />
         </state>
       </provider>
