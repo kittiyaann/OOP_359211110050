@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec5b1c4d-a4b8-4bbe-9d07-62cdd10a5c56" name="Default" comment="myArray">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab5/myArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab5/InputDataToArray.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oopLab4/StudentData.java" afterPath="$PROJECT_DIR$/src/oopLab4/StudentData.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="myArray.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ooplab5/myArray.java">
+      <file leaf-file-name="InputDataToArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ooplab5/InputDataToArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            <state relative-caret-position="364">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -54,6 +53,7 @@
         <option value="$PROJECT_DIR$/src/oopLab4/OverLoadMethhod.java" />
         <option value="$PROJECT_DIR$/src/oopLab4/StudentData.java" />
         <option value="$PROJECT_DIR$/src/ooplab5/myArray.java" />
+        <option value="$PROJECT_DIR$/src/ooplab5/InputDataToArray.java" />
       </list>
     </option>
   </component>
@@ -103,6 +103,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oopLab4" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="OOP_359211110050" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOP_359211110050" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ooplab5" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -133,15 +139,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.myArray">
-    <configuration name="TestInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.InputDataToArray">
+    <configuration name="InputDataToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ooplab2.*" />
+          <option name="PATTERN" value="ooplab5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ooplab2.TestInput" />
+      <option name="MAIN_CLASS_NAME" value="ooplab5.InputDataToArray" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -312,18 +318,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.TestVariable" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TestInput" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TestNestedLoop" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TestMethods" />
-      <item index="4" class="java.lang.String" itemvalue="Application.myArray" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestNestedLoop" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestMethods" />
+      <item index="3" class="java.lang.String" itemvalue="Application.myArray" />
+      <item index="4" class="java.lang.String" itemvalue="Application.InputDataToArray" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.myArray" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestMethods" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestVariable" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestNestedLoop" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TestInput" />
+        <item index="0" class="java.lang.String" itemvalue="Application.InputDataToArray" />
+        <item index="1" class="java.lang.String" itemvalue="Application.myArray" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestMethods" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestVariable" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestNestedLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -401,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1513765218172</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="myArray">
+      <created>1513909109102</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1513909109102</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -544,8 +557,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab5/myArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        <state relative-caret-position="88">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab5/InputDataToArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
