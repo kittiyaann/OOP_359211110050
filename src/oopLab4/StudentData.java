@@ -8,16 +8,16 @@ package oopLab4;
 //หมายเหตุ : ต้องรับค่าข้อมูลแต่ละคนโดยการใช้ Methods
 
 public class StudentData {
-    static  BufferdReadre reader = new BufferdReadre{
-        System.out.print("Emter you ");
-    }
-    public static void  main(System[]args){
-        getName();
-    }//main
+    //static  BufferdReadre reader = new BufferdReadre{
+     //   System.out.print("Emter you ");
+ //   }
+  //  public static void  main(System[]args){
+  //      getName();
+  //  }//main
 
-    private static void getName() {
+  //  private static void getName() {
     }
 
-    private static class BufferdReadre {
-    }
-}//Class
+  //  private static class BufferdReadre {
+   // }
+//}//Class
