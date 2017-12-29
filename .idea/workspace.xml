@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec5b1c4d-a4b8-4bbe-9d07-62cdd10a5c56" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab6/StringCompare.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ooplab5/Exercise.java" afterPath="$PROJECT_DIR$/src/ooplab5/Exercise.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,14 +15,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Exercise.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ooplab5/Exercise.java">
+      <file leaf-file-name="StudentData.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oopLab4/StudentData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="78" column="38" lean-forward="false" selection-start-line="78" selection-start-column="38" selection-end-line="78" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="427">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringCompare.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ooplab6/StringCompare.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="18" column="53" lean-forward="true" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -70,6 +78,7 @@
         <option value="$PROJECT_DIR$/src/ooplab5/myArrayList.java" />
         <option value="$PROJECT_DIR$/src/ooplab6/myString.java" />
         <option value="$PROJECT_DIR$/src/ooplab5/Exercise.java" />
+        <option value="$PROJECT_DIR$/src/ooplab6/StringCompare.java" />
       </list>
     </option>
   </component>
@@ -119,6 +128,12 @@
               <item name="OOP_359211110050" type="b2602c69:ProjectViewProjectNode" />
               <item name="OOP_359211110050" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="oopLab4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OOP_359211110050" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OOP_359211110050" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ooplab5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -155,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise">
+  <component name="RunManager" selected="Application.StringCompare">
     <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -183,6 +198,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="ooplab5.InputDataToArray" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="OOP_359211110050" />
+      <envs />
+    </configuration>
+    <configuration name="StringCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ooplab6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ooplab6.StringCompare" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -294,25 +328,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="myArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ooplab5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ooplab5.myArrayList" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="OOP_359211110050" />
-      <envs />
-    </configuration>
     <configuration name="myString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -335,17 +350,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.TestMethods" />
       <item index="1" class="java.lang.String" itemvalue="Application.InputDataToArray" />
-      <item index="2" class="java.lang.String" itemvalue="Application.myArrayList" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Exercise" />
-      <item index="4" class="java.lang.String" itemvalue="Application.myString" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Exercise" />
+      <item index="3" class="java.lang.String" itemvalue="Application.myString" />
+      <item index="4" class="java.lang.String" itemvalue="Application.StringCompare" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Exercise" />
-        <item index="1" class="java.lang.String" itemvalue="Application.myString" />
-        <item index="2" class="java.lang.String" itemvalue="Application.InputDataToArray" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestMethods" />
-        <item index="4" class="java.lang.String" itemvalue="Application.myArrayList" />
+        <item index="0" class="java.lang.String" itemvalue="Application.StringCompare" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Exercise" />
+        <item index="2" class="java.lang.String" itemvalue="Application.myString" />
+        <item index="3" class="java.lang.String" itemvalue="Application.InputDataToArray" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestMethods" />
       </list>
     </recent_temporary>
   </component>
@@ -472,7 +487,14 @@
       <option name="project" value="LOCAL" />
       <updated>1514513439583</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Exercise">
+      <created>1514513805228</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1514513805228</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -519,9 +541,9 @@
     <MESSAGE value="InputDataToArray" />
     <MESSAGE value="myArray20" />
     <MESSAGE value="myArrayList" />
-    <MESSAGE value="Exercise" />
     <MESSAGE value="mySting" />
-    <option name="LAST_COMMIT_MESSAGE" value="mySting" />
+    <MESSAGE value="Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -548,6 +570,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -592,13 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oopLab4/StudentData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -653,6 +669,22 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oopLab4/StudentData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab6/StringCompare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="18" column="53" lean-forward="true" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+          <folding />
         </state>
       </provider>
     </entry>
