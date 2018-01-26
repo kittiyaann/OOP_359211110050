@@ -12,10 +12,10 @@ public class Student {
     private String pid;
     private String address;
     //Constructor
-    //sefault constructor
+    //default constructor
     public  Student (){}
     //create by own
-    public Student (Student id, Student n, Student pid, Student a){
+    public Student (String id, String n, String pid, String a){
         //assign adta to class properties
         this.id = id;
         this.name = n;

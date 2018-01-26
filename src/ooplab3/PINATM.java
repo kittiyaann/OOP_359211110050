@@ -11,7 +11,7 @@ public class PINATM {
         do {
             System.out.print("Enter your PIN: ");
             input = scanner.nextLine();
-            if(input.equals(PIN));
+            if(input.equals(PIN))
             {
                 System.out.println("Welcome.");
                 break;
