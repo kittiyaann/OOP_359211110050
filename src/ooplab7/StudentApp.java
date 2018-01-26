@@ -1,5 +1,7 @@
 package ooplab7;
 
+import java.util.Scanner;
+
 public class StudentApp {
         public  static void  main (String[]args){
 // create object as Student
@@ -11,14 +13,44 @@ public class StudentApp {
 
             System.out.println(s1.toString());
 
-            Student s2 = new Student("0002","Girl Saiyai","222222222222""22/22 T.Tahawang A.Muang");
+            Student s2 = new Student("0002","Girl Saiyai","222222222222","22/22 T.Tahawang A.Muang");
 
             System.out.println(s2.toString());
 
             Student s3 = new Student();
+            // s3 = inputData(s3);
+          //  System.out.println(s3.toString());
+
+            System.out.println(s2.getId());
+            s2.setId("0004");
+            System.out.println(s2.getId());
+            s2.group = "IS221";
+            System.out.println(s2.group);
+            System.out.println(Student.age);
+            Student.age = 20;
+            s2.age = 30;
+            System.out.println(Student.age);
+            System.out.println(s2.age);
+
 
         }//main
-    private static  Student
 
-    }//class
+    private static Student inputData(Student s) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Insert your student info: ");
+        System.out.print("Student ID: ");
+        s.setId(scanner.nextLine());
+        System.out.print("Name: ");
+        s.setName(scanner.nextLine());
+        System.out.print("Person ID: ");
+        s.setPid(scanner.nextLine());
+        System.out.print("Address: ");
+        s.setAddress(scanner.nextLine());
+        return s;
+
+    }//inputData
+
+
+
+}//class
 
