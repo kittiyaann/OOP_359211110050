@@ -15,7 +15,7 @@ public class Student {
     //sefault constructor
     public  Student (){}
     //create by own
-    public Student (oop_7.Student id, oop_7.Student n, oop_7.Student pid, oop_7.Student a){
+    public Student (Student id, Student n, Student pid, Student a){
         //assign adta to class properties
         this.id = id;
         this.name = n;
