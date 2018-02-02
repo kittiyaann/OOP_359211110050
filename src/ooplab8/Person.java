@@ -14,6 +14,16 @@ public class Person {
         this.address = address;
         this.gender = gender;
     }
+
+    @Override
+    public String toString() {
+        return "Person{" +
+                "PersonID='" + PersonID + '\'' +
+                ", name='" + name + '\'' +
+                ", address='" + address + '\'' +
+                ", gender='" + gender + '\'' +
+                '}';
+    }
     //getter and setter methods
 
     public String getPersonID() {
