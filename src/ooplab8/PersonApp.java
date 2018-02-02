@@ -8,5 +8,11 @@ public class PersonApp {
         System.out.println(student.toString());
         student.setName("Boy Saiyong");
         System.out.println(student.getName());
+
+
+        //create object as student
+        Employee Employee = new Employee("359211110050","kittiya","11 M.2 Thungsong","lady",
+                "Student","6000","AM");
+        System.out.println(Employee.toString());
     }//main
 }//class
