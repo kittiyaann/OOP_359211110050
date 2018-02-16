@@ -17,8 +17,6 @@ public class Car {
     }
     //getter and setter method
 
-
-
     public String getBrand() {
         return brand;
     }
